@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+	<header>
+		<img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1896853_1461263150770107_1861124527_n.jpg?oh=153e9fa789fe682b4a9c363b2d4d3e26&oe=5512316E">
+		<h1>ByLCDesigner's Blog</h1>
+		<ul>
+			<li><a href="#">About Me</a></li>
+			<li><a href="#">Dash Projects</a></li>
+			<li><a href="#">Links</a></li>
+		</ul>
+	</header>
+</body>
