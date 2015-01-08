@@ -1,14 +1,76 @@
 <!DOCTYPE html>
 <head>
+	<link href="/assets/normalize.css" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Amatic+SC' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Josefin+Slab' rel='stylesheet' type='text/css'>
+	<style> 
+		header {
+			text-align: center;
+			background: url(http://images.summitpost.org/original/819227.jpg);
+			background-size: 100% 100%;
+			color: white;
+			font-size: 40px;
+			font-family: 'Pacifico', cursive;
+		}
+		body {
+			background-color: #33323B;
+		}
+		a {
+			color: #000066;
+			text-align: center;
+		}
+		ul {
+			text-align: center;
+			padding-bottom: 20px;
+			background-color: rgba(212, 255, 255, 0.7)
+
+		}
+		li {
+			display: inline;
+			padding: 0px 10px 0px 10px;
+			font-size: 20px;
+		}
+		img {
+			margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+		}
+		h2 {
+		font-family: 'Amatic SC', cursive;
+		font-size: 50px;
+		color: white;
+		font-style: underline;
+		}
+		p {
+			font-family: 'Josefin Slab', serif;
+			font-size: 20px;
+			color: white;
+		}
+</style>
 </head>
 <body>
 	<header>
-		<img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1896853_1461263150770107_1861124527_n.jpg?oh=153e9fa789fe682b4a9c363b2d4d3e26&oe=5512316E">
+		<div class="body-stuff">
 		<h1>ByLCDesigner's Blog</h1>
+		<img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/1545855_1583483665214721_597209987308323084_n.jpg?oh=ccedf15a2262be5cc479840ec9e9f022&oe=553C6834&__gda__=1428540917_8faaeb06b4ca723f693bc96f2d01629c"s width="20%">
 		<ul>
 			<li><a href="#">About Me</a></li>
 			<li><a href="#">Dash Projects</a></li>
 			<li><a href="#">Links</a></li>
+			</div>
 		</ul>
 	</header>
+	<article>
+		<h2><strong>Title</strong></h2>
+			<p>Lorem ipsum dolor sit amet, conclusionemque vituperatoribus te vis, inermis maiestatis duo an, per ad odio molestiae. Et eam nihil graeco. Ne quo vidisse debitis appellantur. Quo iuvaret placerat ocurreret at, usu ullum maiestatis at. Cu per intellegat assueverit.</p>
+	</article>
+	<article>
+		<h2><strong>Title</strong></h2>
+			<p>Lorem ipsum dolor sit amet, conclusionemque vituperatoribus te vis, inermis maiestatis duo an, per ad odio molestiae. Et eam nihil graeco. Ne quo vidisse debitis appellantur. Quo iuvaret placerat ocurreret at, usu ullum maiestatis at. Cu per intellegat assueverit.</p>
+	</article>
+	<article>
+		<h2><strong>Title</strong></h2>
+			<p>Lorem ipsum dolor sit amet, conclusionemque vituperatoribus te vis, inermis maiestatis duo an, per ad odio molestiae. Et eam nihil graeco. Ne quo vidisse debitis appellantur. Quo iuvaret placerat ocurreret at, usu ullum maiestatis at. Cu per intellegat assueverit.</p>
+	</article>
 </body>
